@@ -7,8 +7,8 @@
 This Datacamp course brings hands-on learning path of a solid Data Engineer career.
 From the "Introduction to SQL" to "Design a Bank Database", it covers everything a data engineer has to know in terms of language,
 logic, thinking, tools and clean code. 
-There are 17 courses and 1 project, also testing skills along the way and suggesting new courses based on performance.
-It made me feel ready for working on real projects.
+There are 17 courses and 1 bigger project, also testing skills along the way and suggesting new courses based on performance.
+In this repo I bring the projects I could work on this learning path.
 
 8/18
 
