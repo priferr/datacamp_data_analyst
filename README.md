@@ -2,90 +2,44 @@
   <img src="https://github.com/priferr/datacamp_data_engineer/assets/105013804/5fdea7dc-30a9-42ee-be58-f960461da7d2">
 </p>
 
-# Data Engineer Track
+# Data Analyst with Python Track
 
-This Datacamp course brings hands-on learning path of a solid Data Engineer career.
-From the "Introduction to SQL" to "Design a Bank Database", it covers everything a data engineer has to know in terms of language,
-logic, thinking, tools and clean code. 
-There are 17 courses and 1 bigger project, also testing skills along the way and suggesting new courses based on performance.
+This Datacamp course brings hands-on learning path of a solid Data Analyst career with versatile Python.
+From the "Introduction to Python" to "Hypothesis Testing in Python", it covers what a data analyst has to know in terms of data importing, cleaning, manipulating, and visualizing with Python; tools and clean code to start working. 
+There are 11 courses and several academic project, also testing skills along the way and suggesting new courses based on performance.
 In this repo I bring the projects I could work on this learning path.
 
-8/18
+5/9
 
 ## Courses
-### 0:  [Introduction to Data Engineering]
-            ﹒DE job role
-### 1:  [Understanding Data Engineering]
-            ﹒DE at Spotflix fictional company -> project
-            ﹒SQL databases & Data warehouses
-            ﹒Airflow
-            ﹒Cloud computing
-### 2:  [Introduction to SQL]
-            ﹒SELECT, CREATE VIEW _AS, DISTINCT, FROM
-            ﹒Queries at books database in PostgreSQL -> project
-### 3:  [Intermediate SQL]
-            ﹒Query a film database to answer about movies and actors -> project
-            ﹒COUNT(), SELECT DISTINCT, WHERE, AND/OR, BETWEEN
-            ﹒LIKE, NOT LIKE, WHERE IN, NULL
-            ﹒ROUND(), GROUP BY, HAVING
-### 4: [Joining Data in SQL]
-            ﹒Use inner joins, outer joins and cross joins
-            ﹒Unions, intersect, and except clauses
-### 5: [Introduction to Relational Database in SQL]
-            ﹒Create table, migrate data with INSERT INTO SELECT DISTINCT
-            ﹒ALter COLUMN, ADD CONSTRINT
-            ﹒Keys & Superkeys - foreign key, integrity
-### 6: [Database Design]
-            ﹒OLTP, OLAP
-            ﹒ETL tasks
-            ﹒Snowflake -> project
-### 7: [Introduction to Python]
-            ﹒Lists, dicts, packages
-            ﹒print, type, remove, replace, round
-### 8: [Intermediate Python]
-            ﹒Matplotlib
-            ﹒Dict & pandas
-            ﹒Loops - while, for, dataframe
-### 9: [Introduction to Importing Data in Python]
-            ﹒
-            ﹒
-            ﹒
-### 10: [Intermediate Importing Data in Python]
-            ﹒
-            ﹒
-            ﹒
-### 11: [Understanding Cloud Computing]
-            ﹒
-            ﹒
-            ﹒
-### 12: [Cleaning Data in Python]
-            ﹒
-            ﹒
-            ﹒
-### 13: [Writing Efficient Python Code]
-            ﹒
-            ﹒
-            ﹒
-### 14: [Streamlined Data Ingestion with pandas]
-            ﹒
-            ﹒
-            ﹒
-### 15: [Designing a Bank Marketing Database] -> PROJECT
-            ﹒
-            ﹒
-            ﹒
-### 16: [Understanding Data Visualization]
-            ﹒
-            ﹒
-            ﹒
-### 17: [Introduction to Git]
-            ﹒
-            ﹒
-            ﹒
-### 18: [Software Engineering for Data Scientists in Python]
-            ﹒
-            ﹒
-            ﹒
+### 1:  Introduction to Python
+      ﹒Lists, dictionaries, packages
+      ﹒print, type, remove, replace, round
+### 2:  Intermediate Python
+      ﹒Matplotlib
+      ﹒Dict & pandas
+      ﹒Loops - while, for, dataframe
+### 3:  Data Manipulation with pandas
+      ﹒Learn how to import and clean data
+      ﹒Calculate statistics
+      ﹒Create visualizations with pandas
+### 4:  Joining Data with pandas
+      ﹒Combine data from multiple tables by joining data together using pandas
+### 5:  Introduction to Statistics in Python
+      ﹒Statistical skills
+      ﹒Collect, analyze, and draw accurate conclusions from data using Python
+### 6:  Introduction to Data Visualization with Seaborn
+      ﹒Informative and attractive visualizations using the Seaborn library
+### 7:  Data Manipulation with Python
+      ﹒Skill assessment
+### 8:  Importing & Cleaning Data with Python
+      ﹒Skill assessment
+### 9:  Exploratory Data Analysis in Python
+      ﹒Explore, visualize, and extract insights from data using exploratory data analysis (EDA) in Python
+### 10: [Extra] Sampling in Python
+      ﹒Draw conclusions from limited data using Python and statistics. This course covers everything from random sa...
+### 11: [Extra] Hypothesis Testing in Python
+      ﹒Common hypothesis tests like t-tests, proportion tests, and chi-square tests in Python
 
 <p align="center">
   <img src="https://github.com/priferr/datacamp_data_engineer/assets/105013804/7ca31089-40c3-4429-9518-713045a95009">
