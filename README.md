@@ -20,7 +20,7 @@ In this repo I bring the projects I could work on this learning path.
       ﹒Dict & pandas
       ﹒Loops - while, for, dataframe
 ### 3:  Data Manipulation with pandas
-      ﹒Learn how to import and clean data
+      ﹒Import and clean data
       ﹒Calculate statistics
       ﹒Create visualizations with pandas
 ### 4:  Joining Data with pandas
